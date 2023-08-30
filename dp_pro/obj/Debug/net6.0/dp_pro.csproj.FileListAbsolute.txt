@@ -1,0 +1,15 @@
+C:\Users\Abhinav\source\repos\dp_pro\dp_pro\obj\Debug\net6.0\dp_pro.csproj.AssemblyReference.cache
+C:\Users\Abhinav\source\repos\dp_pro\dp_pro\obj\Debug\net6.0\dp_pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhinav\source\repos\dp_pro\dp_pro\obj\Debug\net6.0\dp_pro.AssemblyInfoInputs.cache
+C:\Users\Abhinav\source\repos\dp_pro\dp_pro\obj\Debug\net6.0\dp_pro.AssemblyInfo.cs
+C:\Users\Abhinav\source\repos\dp_pro\dp_pro\obj\Debug\net6.0\dp_pro.csproj.CoreCompileInputs.cache
+C:\Users\Abhinav\source\repos\dp_pro\dp_pro\bin\Debug\net6.0\dp_pro.exe
+C:\Users\Abhinav\source\repos\dp_pro\dp_pro\bin\Debug\net6.0\dp_pro.deps.json
+C:\Users\Abhinav\source\repos\dp_pro\dp_pro\bin\Debug\net6.0\dp_pro.runtimeconfig.json
+C:\Users\Abhinav\source\repos\dp_pro\dp_pro\bin\Debug\net6.0\dp_pro.dll
+C:\Users\Abhinav\source\repos\dp_pro\dp_pro\bin\Debug\net6.0\dp_pro.pdb
+C:\Users\Abhinav\source\repos\dp_pro\dp_pro\obj\Debug\net6.0\dp_pro.dll
+C:\Users\Abhinav\source\repos\dp_pro\dp_pro\obj\Debug\net6.0\refint\dp_pro.dll
+C:\Users\Abhinav\source\repos\dp_pro\dp_pro\obj\Debug\net6.0\dp_pro.pdb
+C:\Users\Abhinav\source\repos\dp_pro\dp_pro\obj\Debug\net6.0\dp_pro.genruntimeconfig.cache
+C:\Users\Abhinav\source\repos\dp_pro\dp_pro\obj\Debug\net6.0\ref\dp_pro.dll
